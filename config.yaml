@@ -1,4 +1,4 @@
-baseURL: http://example.org/
+baseURL: raghavmehtaportfolio.netlify.app
 languageCode: en-us
 title: Forty
 theme: forty
@@ -10,23 +10,23 @@ params:
     subtitle: |-
       A RESPONSIVE SITE TEMPLATE DESIGNED BY HTML5 UP
       AND RELEASED UNDER THE CREATIVE COMMONS.
-    title: Hi, my name is Forty
+    title: Raghav Mehta's Portfolio Website
   blog: {}
   contact:
     address:
-      - city: City, ST 00000
-        country: Country
-        street: Street
+      - city: London
+        country: United Kingdom
+        street: Regent's Park
         title: Address
     buttonClear: Clear
     buttonSend: Send message
     email:
-      - email: example@domain.com
+      - email: rmehta.mam2022@london.edu
         title: Email
     enable: yes
     phone:
-      - phone: (000) 000-0000 x1234
-        title: Phone
+      - phone: (+44) 7984584038
+        title: Phone Number
   custom_css: []
   custom_js: []
   description: Your description
