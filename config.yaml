@@ -59,9 +59,9 @@ params:
         url: blogs/fileone
       - name: CV
         url: blogs/filetwo
-      - name: Practical Data Analysis Case Studies
+      - name: Biden Popularity
         url: blogs/filefour
-      - name: Undergraduate Dissertation
+      - name: Weather Patterns
         url: blogs/filethree
     menu: Menu
     subtitle: Raghav's website
@@ -78,8 +78,8 @@ params:
         title: CV
         url: blogs/filetwo
       - image: pic03.jpg
-        subtitle: Investigation into Plant Networks
-        title: Undergraduate Project
+        subtitle: Climate Changes evaluation through data
+        title: Understanding Weather
         url: blogs/filethree
       - image: pic04.jpg
         subtitle: Data Analysis on Biden's Election
@@ -93,11 +93,8 @@ params:
         subtitle: Let's connect
         title: Contact Me
         url: blogs/filesix
-        
-
-  two:
-    buttonText: R Analysis
-    enable: yes
-    subtitle:"LBS website" 
-    title: Website
-    url: blogs
+      
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
