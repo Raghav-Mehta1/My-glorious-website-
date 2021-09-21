@@ -1,7 +1,9 @@
 ---
-title: "filethree"
+title: "Weather and Global Warming"
 author: "MAM Group 5"
 date: "`r Sys.Date()`"
+slug: "filethree"
+draft: false
 output:
   html_document:
     theme: flatly

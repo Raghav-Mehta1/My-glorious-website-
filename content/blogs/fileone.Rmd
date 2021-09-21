@@ -1,6 +1,8 @@
 ---
-title: "fileone"
-output: html_document
+title: " Personal Information"
+output: htmlocument
+slug: "fileone"
+draft: false
 ---
 Hello! I'm Raghav, a student at the London Business School studying Analytics and Management (MAM). My Bachelors degree was in systems engineering, with a focus on plant communication systems as part of my dissertation, and general communications systems. 
 My professional background is in healthcare, working for the NHS during the Coronavirus pandemic, in a data role, as well as startup organisations. 
