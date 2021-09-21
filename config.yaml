@@ -56,13 +56,13 @@ params:
   navigation:
     links:
       - name: About Me
-        url: blogs/aliquam
+        url: blogs/fileone
       - name: CV
-        url: blogs/tempus
+        url: blogs/filetwo
       - name: Practical Data Analysis Case Studies
-        url: blogs/ipsum
+        url: blogs/filefour
       - name: Undergraduate Dissertation
-        url: blogs/magna
+        url: blogs/filethree
     menu: Menu
     subtitle: Raghav's website
     title: LBS MAM2022
@@ -72,24 +72,24 @@ params:
       - image: pic01.jpg
         subtitle: Background, Hobbies and Interests
         title: About Me
-        url: blogs/aliquam
+        url: blogs/fileone
       - image: pic02.jpg
         subtitle: Highlights of Professional Accomplishment
         title: CV
-        url: blogs/tempus
+        url: blogs/filetwo
       - image: pic03.jpg
         subtitle: Investigation into Plant Networks
         title: Undergraduate Project
-        url: blogs/magna
+        url: blogs/filethree
       - image: pic04.jpg
         subtitle: Data Analysis on Biden's Election
         title: American Election Project
-        url: blogs/ipsum
+        url: blogs/filefour
       - image: pic05.jpg
         subtitle: Investigation into everyday working behaviour
         title: How do People work
-        url: blogs/ipsum
+        url: blogs/filefive
       - image: pic06.jpg
         subtitle: Let's connect
         title: Contact Me
-        url: blogs/ipsum
+        url: blogs/filesix
