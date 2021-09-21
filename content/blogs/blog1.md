@@ -9,5 +9,7 @@ image: pic10.jpg
 keywords: ""
 slug: My Dissertation
 title: My dissertation
+output: pdf_document
 ---
+
 
