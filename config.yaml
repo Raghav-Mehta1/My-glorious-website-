@@ -58,9 +58,9 @@ params:
       - name: About Me
         url: blogs/fileone
       - name: CV
-        url: blogs/filetwo
-      - name: Biden Popularity
-        url: blogs/filefour
+        url: blogs/Raghav Mehta_CV.pdf
+      - name: Undergraduate Thesis
+        url: blogs/Raghav Mehta_Thesis.pdf
       - name: Weather Patterns
         url: blogs/filethree
     menu: Menu
@@ -82,12 +82,12 @@ params:
         title: Understanding Weather
         url: blogs/filethree
       - image: pic04.jpg
-        subtitle: Data Analysis on Biden's Election
-        title: American Election Project
-        url: blogs/filefour
+        subtitle: Undergraduate Thesis
+        title: Building Computers out of plants
+        url: blogs/Raghav Mehta_Thesis.pdf
       - image: pic05.jpg
-        subtitle: Investigation into everyday working behaviour
-        title: How do People work
+        subtitle: US Election 2020
+        title: Biden's Electability
         url: blogs/filefive
       - image: pic06.jpg
         subtitle: Let's connect
