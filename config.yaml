@@ -58,7 +58,7 @@ params:
       - name: About Me
         url: blogs/fileone
       - name: CV
-        url: blogs/Raghav Mehta_CV.pdf
+        url: blogs/Raghav_Mehta_CV_LBS.pdf
       - name: Undergraduate Thesis
         url: blogs/Raghav Mehta_Thesis.pdf
       - name: Weather Patterns
@@ -76,7 +76,7 @@ params:
       - image: pic02.jpg
         subtitle: Highlights of Professional Accomplishment
         title: CV
-        url: blogs/filetwo
+        url: blogs/Raghav_Mehta_CV_LBS.pdf
       - image: pic03.jpg
         subtitle: Climate Changes evaluation through data
         title: Understanding Weather
@@ -87,8 +87,8 @@ params:
         url: blogs/Raghav Mehta_Thesis.pdf
       - image: pic05.jpg
         subtitle: US Election 2020
-        title: Biden's Electability
-        url: blogs/filefive
+        title: Blank Space for future projects
+        url: blogs/Raghav Mehta_Thesis.pdf
       - image: pic06.jpg
         subtitle: Let's connect
         title: Contact Me

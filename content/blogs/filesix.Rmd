@@ -1,0 +1,8 @@
+---
+title: "Contact Me"
+output: html_document
+slug: "filesix"
+draft: false
+---
+Please feel free to reach out to me about careers, academics, diving or anything else. 
+I'm most easily contactable on linkedin, but you can find me on whatsapp, and messenger as well.My links are at the bottom of the page, by clicking on the icons. Hope to talk to you soon!
