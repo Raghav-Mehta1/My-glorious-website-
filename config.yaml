@@ -8,7 +8,7 @@ params:
   banner:
     buttonText: Get Started
     subtitle: |-
-      A website designed by Raghav to showcase projects and hobbies.
+      A website designed by myself (Raghav) to showcase projects and hobbies.
     title: Raghav Mehta's Portfolio Website
   blog: {}
   contact:
@@ -44,9 +44,6 @@ params:
       - icon: fa-facebook
         label: Facebook
         url: https://www.facebook.com/profile.php?id=100013047872823
-      - icon: fa-instagram
-        label: Instagram
-        url: https://www.instagram.com
       - icon: fa-github
         label: GitHub
         url: https://github.com/Raghav-Mehta1
@@ -57,30 +54,24 @@ params:
   image: ''
   name: Your name
   navigation:
-    button1:
-      - name: Get Started
-        url: blogs
-    button2:
-      - name: Log In
-        url: '#'
     links:
-      - name: Home
-        url: '#'
-      - name: Blogs
-        url: blogs
-      - name: Generic Blog
+      - name: About Me
+        url: blogs/aliquam
+      - name: CV
+        url: blogs/tempus
+      - name: Practical Data Analysis Case Studies
         url: blogs/ipsum
-      - name: Elements
-        url: elements.html
+      - name: Undergraduate Dissertation
+        url: blogs/magna
     menu: Menu
-    subtitle: By HTML5 Up
-    title: Forty
+    subtitle: Raghav's website
+    title: LBS MAM2022
   tiles:
     enable: yes
     showcase:
       - image: pic01.jpg
         subtitle: Ipsum Dolor Sit Amet
-        title: 
+        title: About Me
         url: blogs/aliquam
       - image: pic02.jpg
         subtitle: Feugiat Amet Tempus
