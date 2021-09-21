@@ -49,10 +49,11 @@ params:
         url: https://www.instagram.com
       - icon: fa-github
         label: GitHub
-        url: https://www.github.com
+        url: https://github.com/Raghav-Mehta1
       - icon: fa-linkedin
         label: LinkedIn
-        url: https://www.linkedin.com
+        url: www.linkedin.com/in/raghav-mehta-rvm
+
   image: ''
   name: Your name
   navigation:
@@ -79,7 +80,7 @@ params:
     showcase:
       - image: pic01.jpg
         subtitle: Ipsum Dolor Sit Amet
-        title: Aliquam
+        title: 
         url: blogs/aliquam
       - image: pic02.jpg
         subtitle: Feugiat Amet Tempus
